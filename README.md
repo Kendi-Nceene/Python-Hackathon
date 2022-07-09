@@ -12,7 +12,7 @@ GROUP 26
 
 5.Edwin Kingori
 
-3 Days of Python (Roadmap)
+Three Days of Python (Roadmap)
 
 Bus Fare Challenge – Task One (Day 1)
 Write a program that does the following:
