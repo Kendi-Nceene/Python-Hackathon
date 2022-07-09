@@ -2,15 +2,15 @@ POWER LEARN PROJECT PYTHON HACKATHON
 
 GROUP 26
 
-Moris Wachira
+1.Moris Wachira
 
-Kendi Nceene
+2.Kendi Nceene
 
-Edward Kariuki
+3.Edward Kariuki
 
-Peter	Abel
+4.Peter	Abel
 
-Edwin Kingori
+5.Edwin Kingori
 
 3 Days of Python (Roadmap)
 
