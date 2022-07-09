@@ -1,4 +1,4 @@
-# 7. Calories from Fat and Carbohydrates
+# Calories from Fat and Carbohydrates
 # A nutritionist who works for a fitness club helps members by
 # evaluating their diets.  As part of her evaluation, she asks
 # members for the number of fat grams and carbohydrate grams
