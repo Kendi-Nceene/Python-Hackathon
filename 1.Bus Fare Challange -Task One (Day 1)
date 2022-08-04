@@ -1,4 +1,6 @@
+#importing relevant libraries
 from datetime import datetime
+#working on days of the week
 date = datetime.now()
 x = date.weekday()
 t = date.today()

@@ -1,17 +1,3 @@
-POWER LEARN PROJECT PYTHON HACKATHON
-
-GROUP 26
-
-1.Moris Wachira
-
-2.Kendi Nceene
-
-3.Edward Kariuki
-
-4.Peter	Abel
-
-5.Edwin Kingori
-
 3 Days of Python (Roadmap)
 
 Bus Fare Challenge – Task One (Day 1)
@@ -45,7 +31,7 @@ Book Club Points Serendipity Booksellers has a book club that awards points to i
 • If a customer purchases 4 or more books, he or she earns 60 points. 
 Write a program that asks the user to enter the number of books that he or she has purchased this month and displays the number of points awarded
 
-Challenge - Task Two (Day 2)
+Career Option Challenge - Task Two (Day 2)
 2. Write a python program that takes user inputs and determines what career the user should learn.
 Requirements:
 Store career options in a list or in variables.
@@ -70,7 +56,7 @@ When a wrong message is entered or invalid key pressed a “Invalid input” mes
 When the door is locked or open, it prints out the last date/time the door was opened, eg “Door Last open  at 2022-07-05 08:46:20.535395”
 
 
-Day 3: Challenge Task Two (Day 3)
+Calories from fat Challenge Task Two (Day 3)
 2. Calories from Fat and Carbohydrates A nutritionist who works for a fitness club helps members by evaluating their diets. As part of her evaluation, she asks members for the number of fat grams and carbohydrate grams that they consumed in a day. Then, she calculates the number of calories that result from the fat, using the following formula: 
 Calories from fats fat grams * 9 
 Next, she calculates the number of calories that result from the carbohydrates, using the following formula: 
