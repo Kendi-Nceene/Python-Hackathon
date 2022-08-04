@@ -32,7 +32,7 @@ Book Club Points Serendipity Booksellers has a book club that awards points to i
 Write a program that asks the user to enter the number of books that he or she has purchased this month and displays the number of points awarded
 
 ## Career Option Challenge - Task Two (Day 2)
-2. Write a python program that takes user inputs and determines what career the user should learn.
+ Write a python program that takes user inputs and determines what career the user should learn.
 Requirements:
 Store career options in a list or in variables.
 Store career advices in a list.
@@ -44,7 +44,7 @@ When all the questions are done the program should determine which career the us
 
 ## Door lock system Challenge – Task One (Day 3)
 
-1. Write a python program that simulates a door lock system such that:
+ Write a python program that simulates a door lock system such that:
 
 Password is set and stored in a variable,
 Commands to instruct the door are stored in variables.
@@ -57,7 +57,7 @@ When the door is locked or open, it prints out the last date/time the door was o
 
 
 ## Calories from fat Challenge Task Two (Day 3)
-2. Calories from Fat and Carbohydrates A nutritionist who works for a fitness club helps members by evaluating their diets. As part of her evaluation, she asks members for the number of fat grams and carbohydrate grams that they consumed in a day. Then, she calculates the number of calories that result from the fat, using the following formula: 
+Calories from Fat and Carbohydrates A nutritionist who works for a fitness club helps members by evaluating their diets. As part of her evaluation, she asks members for the number of fat grams and carbohydrate grams that they consumed in a day. Then, she calculates the number of calories that result from the fat, using the following formula: 
 Calories from fats fat grams * 9 
 Next, she calculates the number of calories that result from the carbohydrates, using the following formula: 
 Calories from carbs carb grams * 4 
